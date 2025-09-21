@@ -1,1 +1,2 @@
-printf "Z\n" > z
+echo "Z" > z
+cat z
