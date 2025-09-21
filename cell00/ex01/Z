@@ -1,1 +1,2 @@
-echo "Z" > cat z
+echo "Z" > z
+cat z
